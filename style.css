@@ -20,15 +20,15 @@ body {
 .instagram-wrapper {
     display: flex;
     align-items: center;
-    justify-content: center;
-    width: 60%;
+    justify-content:start;
+    width: 75%;
     height: 100vh;
 }
 
 .instagram-phone {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 50%;
     border: 2px, solid black;
 }
@@ -39,8 +39,8 @@ body {
 
 .instagram-continue {
     display: flex;
-    align-items: center;
-    justify-content: space-around;
+    align-items: center; /* horizontal */
+    justify-content: space-around; /* vertical */
     flex-direction: column;
     width: 50%;
     min-height: 34rem;
@@ -52,7 +52,7 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: #ffffff;
-    width: 100%;
+    width: 75%;
     padding: 1.3rem 0;
     border: 1px solid lightgray;
 }
