@@ -1,10 +1,5 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Clonando a Interface de log-in do Instagram Web
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Repositorio para treinar as habiliades adquiridas na trilha de fundamentos de Web com HTML e CSS do bootcamp Impulso Javascript da DIO
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+forked from https://github.com/SpruceGabriela/instagram-dio
