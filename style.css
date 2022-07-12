@@ -28,8 +28,9 @@ body {
 .instagram-phone {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     width: 50%;
+    border: 2px, solid black;
 }
 
 .instagram-phone img {
